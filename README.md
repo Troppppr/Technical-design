@@ -1,2 +1,2 @@
 # Technical-design
-Technical design lab MUUCTR
+Technical design lab MUCTR
